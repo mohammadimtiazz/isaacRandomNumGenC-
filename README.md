@@ -1,2 +1,2 @@
 # isaacRandomNumGenC-
-this code execute secure random number generator for cryptography purposes. An example code with issac implementation has been provided there 
+this code execute CSPRNG (Cryptographically secure pseudorandom number generator). An example code with issac implementation has been provided here 
